@@ -1,11 +1,11 @@
 # Git fork practice
 
-+ Fork this repo.
++ 🍴 Fork this repo.
 
-+ Clone it, and make a branch with your name.
++ 👯‍♂️ Clone it, and make a branch with your name.
 
-+ Add an HTML file with your name and bio. Express yourself. Make it fancy.
++ 📕 Add an HTML file with your name and bio. Express yourself. Make it fancy.
 
-+ Make a PR to the repo you forked.
++ 📦 Make a PR to the repo you forked.
 
-+ Done. Congrats.
++ 🎉 Done. Congrats.
